@@ -366,31 +366,31 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>09/17/2018</string>
+		<string>04/22/2019</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MM81.88Z.F000.B00.1809171422</string>
+		<string>MBP151.88Z.F000.B00.1904222000</string>
 		<key>Board-ID</key>
-		<string>Mac-7BA5B2DFE22DDD8C</string>
+		<string>Mac-937A206F2EE63C01</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C07810300GUCB</string>
+		<string>C028151024NJP4FAD</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
 		<string>1.0</string>
 		<key>ChassisAssetTag</key>
-		<string>Mini-Aluminum</string>
+		<string>MacBook-Aluminum</string>
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>220.250.330.0.0</string>
+		<string>220.260.170.0.0</string>
 		<key>Family</key>
-		<string>Mac mini</string>
+		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
 		<string>0xFC0FE137</string>
 		<key>FirmwareFeaturesMask</key>
@@ -400,15 +400,15 @@
 		<key>Manufacturer</key>
 		<string>Apple Inc.</string>
 		<key>Mobile</key>
-		<false/>
+		<true/>
 		<key>PlatformFeature</key>
-		<string>0x02</string>
+		<string>0x1A</string>
 		<key>ProductName</key>
-		<string>Macmini8,1</string>
+		<string>MacBookPro15,1</string>
 		<key>SerialNumber</key>
-		<string>C07WD0GZJYVX</string>
+		<string>C02WK0L8KGYG</string>
 		<key>SmUUID</key>
-		<string>3C99DB27-B247-4651-9CB6-934B7FDF513E</string>
+		<string>73AD4CD9-CC3D-4A3D-B269-3DC3BD683197</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
