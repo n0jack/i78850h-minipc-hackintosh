@@ -13,5 +13,8 @@ I78850H迷你主机安装黑苹果系统
 
 ## 支持系统
 
-- macOS Catalina （目前使用）
+- macOS Catalina 10.15.4 (19E266) （目前使用）
 - macOS Mojave （之前使用）
+
+---
+Update:2020.03.25
