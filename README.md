@@ -16,22 +16,5 @@ I78850H迷你主机安装黑苹果系统
 - macOS Catalina 10.15.4 (19E266) （目前使用）
 - macOS Mojave （之前使用）
 
-                    'c.          jack@Macmini.local
-                 ,xNMM.          ------------------
-               .OMMMMo           OS: macOS 10.15.4 19E266 x86_64
-               OMMM0,            Host: Hackintosh (SMBIOS: Macmini8,1)
-     .;loddo:' loolloddol;.      Kernel: 19.4.0
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 4 hours, 3 mins
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 68 (brew)
- XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.7.1
-;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 2560x1440@2x, 1920x1080@2x
-:MMMMMMMMMMMMMMMMMMMMMMMM:       DE: Aqua
-.MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Quartz Compositor
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    WM Theme: Blue (Light)
- .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Terminal: iTerm2
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Terminal Font: Monaco 12
-    kMMMMMMMMMMMMMMMMMMMMMMd     CPU: Intel i7-8850H (12) @ 2.60GHz
-     ;KMMMMMMMWXXWMMMMMMMk.      GPU: Intel UHD Graphics 630
-       .cooc,.    .,coo:.        Memory: 11128MiB / 32768MiB
 
 Update:2020.03.25
