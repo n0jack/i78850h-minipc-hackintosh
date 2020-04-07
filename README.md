@@ -17,4 +17,10 @@ I78850H迷你主机安装黑苹果系统
 - macOS Mojave （之前使用）
 
 ---
-Update:2020.03.25
+## 更新说明 （2020.04.07）
+- 更新Clover到5.0 r5109
+- 更新 AppleALC 1.4.8
+- 更新 BrcmPatchRam 2.5.2
+- 更新 Lilu 1.4.3
+- 更新 VirtualSMC 1.1.2
+- 更新 WhateverGreen 1.3.8
