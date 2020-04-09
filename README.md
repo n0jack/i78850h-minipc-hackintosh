@@ -24,3 +24,6 @@ I78850H迷你主机安装黑苹果系统
 - 更新 VirtualSMC 1.1.2
 - 更新 WhateverGreen 1.3.8
 
+
+## 讨论
+https://www.tonymacx86.com/threads/eglobal-s200-nuc-intel-i7-8750h-mini-pc-compatible.276741/
